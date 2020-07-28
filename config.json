@@ -1,0 +1,55 @@
+{ 	
+"common":
+	{
+	"ids": [
+		"sidebar", 
+		"footer", 
+		"tabloid", 
+		"addition", 
+		"subscribe"
+		],
+	"tags": [
+		"script", 
+		"noscript", 
+		"style", 
+		"iframe", 
+		"svg", 
+		"nav", 
+		"noindex", 
+		"footer"
+		],	
+	  "classes": [
+		"sidebar", 
+		"footer", 
+		"tabloid", 
+		"addition", 
+		"subscribe", 
+		"preview", 
+		"recommend"
+		]
+	},
+"lenta.ru":
+	{
+	"classes": [
+		"snippet"
+		]
+	},
+"www.gazeta.ru":
+	{
+	"classes": [
+		"finam",
+		"sausage"
+		]
+	},
+"ria.ru":
+	{
+	"tags": [
+		"itemprop"
+		],	
+	"classes": [
+		"form",
+		"lenta",
+		"modal"
+		]
+	}
+}
